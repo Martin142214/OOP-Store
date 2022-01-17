@@ -1,0 +1,14 @@
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.exe
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.deps.json
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.runtimeconfig.json
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.runtimeconfig.dev.json
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.dll
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\bin\Debug\netcoreapp3.1\Store_Exam_Task.pdb
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.AssemblyInfoInputs.cache
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.AssemblyInfo.cs
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.csproj.CoreCompileInputs.cache
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.dll
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.pdb
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.genruntimeconfig.cache
+F:\C# projects\Store_Exam_Task\Store_Exam_Task\obj\Debug\netcoreapp3.1\Store_Exam_Task.csproj.AssemblyReference.cache
